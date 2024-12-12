@@ -21,5 +21,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 # Login Page
 
-<img width="400px" height="auto" src="./public/loginSSPC.png" />
-<img width="400px" height="auto" src="./public/loginSSMobile.png" />
+<img width="400px" height="400" src="./public/loginSSPC.png" />
+<img width="400px" height="500" src="./public/loginSSMobile.png" />
