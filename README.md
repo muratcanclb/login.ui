@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 # Login Page
-<a href="https://login-ui-nu.vercel.app/">Ön İzleme</a>
+<a href="https://login-ui-nu.vercel.app/" target="_blank">Ön İzleme</a>
 
 Masaüstü Görünüm
 <img width="700px" height="500px" src="./public/loginSSPC.png" />
