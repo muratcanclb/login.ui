@@ -2,7 +2,7 @@ import React from 'react'
 
 const LoginPage = () => {
     return (
-        <div className="flex">
+        <div className="flex bg:white dark:white">
             <div className="w-1/2 sm:block hidden">
                 <img className="w-full h-full object-cover" src="../istatistik.jpg" alt="Your Company" />
             </div>
