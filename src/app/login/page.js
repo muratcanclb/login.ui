@@ -66,7 +66,7 @@ const LoginPage = () => {
                                 />
                             </svg>
 
-                            <span className="mx-2">Google hesabıyla giriş yap</span>
+                            <span className="mx-2 text-slate-900 dark:text-slate-900">Google hesabıyla giriş yap</span>
                         </a>
                     </div>
 
